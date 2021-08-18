@@ -1,4 +1,7 @@
-### Hi there 👋
+![banner](media/banner.jpg)
+
+I'm currently working on my personal portfolio ✨
+
 
 <!--
 **fernandagil/fernandagil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
