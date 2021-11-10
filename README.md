@@ -1,4 +1,4 @@
-![banner](media/banner.jpg)
+Hola! I'm Fernanda Gil
 
 I'm currently working on my personal portfolio ✨
 
