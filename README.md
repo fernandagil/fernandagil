@@ -4,15 +4,11 @@
 
 
 <br>
-<hr>
-<br>
 
 
 ## Toolbox 🛠️
 
 ### Languages
-
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,9 +47,9 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+
 <br>
-<hr>
-<br>
+
 
 ## Some Projects 💻
 
@@ -66,15 +62,14 @@
 
 
 <br>
-<hr>
-<br>
+
 
 #### Contact me 📭
 
 ![https://www.linkedin.com/in/fernandagil/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-
+<br>
 
 <!--
 **fernandagil/fernandagil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
