@@ -1,11 +1,18 @@
-# ¡Hola! I'm Fernanda Gil
+# ¡Hola! I'm Fernanda Gil <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-I'm currently working on my personal portfolio ✨
+👩‍💻  I'm currently working on [JavaScript30](https://javascript30.com/) by Wes Bos ✨
 
 
-## Skills
+<br>
+<hr>
+<br>
+
+
+## Toolbox 🛠️
 
 ### Languages
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,10 +47,31 @@ I'm currently working on my personal portfolio ✨
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+### Learning 
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<br>
+<hr>
+<br>
+
+## Some Projects 💻
+
+- [Plantas&Co](https://ms4-plants-shop.herokuapp.com/)
+- [Nonna Pepita Restaurant](https://fernandagil.github.io/ms1-nonnapepita-restaurant/)
+- [Movie Journal](https://ms3-movie-journal.herokuapp.com/)
+- [Olé Spanish Game](https://fernandagil.github.io/ms2-olespanish-game/)
+- [The Breast Review](https://deannacarina.github.io/BCAwareness/) - Hackathon Group Project
+- [StaticWickedQuiz](https://staticwickedquiz.herokuapp.com/) - Hackathon Group Project
 
 
+<br>
+<hr>
+<br>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+#### Contact me 📭
+
+![https://www.linkedin.com/in/fernandagil/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
@@ -53,17 +81,13 @@ I'm currently working on my personal portfolio ✨
 
 Ressources used:
 - for badges: https://github.com/Ileriayo/markdown-badges
+- for emojis: https://emojipedia.org/
 
 
 
-Here are some ideas to get you started:
+<a href="https://Fernanda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagil&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Fernanda's Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
